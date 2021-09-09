@@ -88,6 +88,6 @@ print("Nova lista de esportes: {}".format(lista_esportes))
 
 #e)
 
-lista_geral.append("Disciplinas")
+lista_geral.append("[Disciplinas]")
 
 print(lista_geral)
