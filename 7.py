@@ -53,7 +53,9 @@ print("")
 
 #b)
 
-lista_geral = lista_filmes + lista_jogos + lista_livros + lista_esportes
+lista_geral = []
+
+lista_geral = [lista_filmes, lista_jogos, lista_livros, lista_esportes]
 
 print("Lista Geral: {}".format(lista_geral))
 print("")
@@ -62,11 +64,15 @@ print("")
 
 #c)
 
+print(lista_livros)
+
 info = int(input("A lista de livros tem {} itens, escreva qual item deseja ver. ".format(len(lista_livros))))
 
 info = info - 1   
 
-print (lista_livros[info])
+del lista_livros[info]
+
+print("Nova lista de livros: {}".format(lista_livros))
 print("")
 
 #d)
