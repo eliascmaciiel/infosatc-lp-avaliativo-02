@@ -85,6 +85,7 @@ rem = rem - 1
 
 del lista_esportes[rem]
 print("Nova lista de esportes: {}".format(lista_esportes))
+print("")
 
 #e)
 
