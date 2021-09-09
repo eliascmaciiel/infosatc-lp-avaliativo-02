@@ -8,7 +8,7 @@
 
 - Disciplina de Linguagem de programação
 
-- 2° fase do curso técnico em informática, turma 2190
+- 2° fase do curso técnico em informática, turma 2190 - 2021
 
 - Atividade avaliativa 02 da disciplina de linguagem de programação do curso técnico de informática SATC 2021
 
