@@ -1,10 +1,18 @@
 #Exercício 7
 
+lista_filmes = ["Esquadrão Suicida", "Homem Aranha"]
+
+lista_jogos = ["Rocket League", "GTA"]
+
+lista_livros = ["A Culpa é das Estrelas", "O Diário de Anne Frank"]
+
+lista_esportes = ["Handebol", "Basquete"]
+
 
 #a)
 
 #Lista A
-lista_filmes = []
+
 lista_filmes.append("Harry Potter")
 lista_filmes.append("Velozes e Furiosos")
 
@@ -14,7 +22,7 @@ print("")
 
 
 #Lista B
-lista_jogos = []
+
 lista_jogos.append("Counter Strike")
 lista_jogos.append("FIFA")
 
@@ -24,7 +32,7 @@ print("")
 
 
 #Lista C
-lista_livros = []
+
 lista_livros.append("Diário de um Banana")
 lista_livros.append("Volta ao mundo em 80 dias")
 
@@ -34,7 +42,7 @@ print("")
 
 
 #Lista D
-lista_esportes = []
+
 lista_esportes.append("Futebol")
 lista_esportes.append("Vôlei")
 
