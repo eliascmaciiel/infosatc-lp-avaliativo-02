@@ -89,6 +89,6 @@ print("")
 
 #e)
 
-lista_geral.append("[Disciplinas]")
+lista_geral.append(['História', 'Geografia', 'Física'])
 
 print(lista_geral)
